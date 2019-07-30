@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git: #\u914D\u7F6Egit\u4ED3\u5E93\u5730\u5740
-          uri: http://172.16.55.138:10080/zhangzhijun/itcast-config-server.git
+          uri: https://github.com/PongW001/springcloud-config.git
